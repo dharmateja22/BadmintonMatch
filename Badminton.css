@@ -1,0 +1,102 @@
+/* CSS declarations go here */
+body {
+    text-align:center;
+    margin: auto;
+}
+
+.playerTable {
+    text-align: center;
+    margin: auto;
+}
+.playerTable tr{
+    font-family: Tahoma;
+    padding: 5px;
+    font-size: 15pt;
+    color: darkgreen;
+}
+
+.playerTableForm {
+    height: 23pt;
+    font-size: 16pt;
+    color: #001cff;
+}
+
+.playerTableFormSubmit {
+    height: 20pt;
+    width:100pt;
+    font-size: 15pt;
+    color: #fff4ed;
+    background: #ff423c;
+    border:0;
+}
+.playerTableFormSubmit:active {
+    background: #ffa8a5;
+}
+
+.matchSelect {
+    text-align: center;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom:30px;
+    border: 1px solid #2597a0;
+}
+.matchTeamHead {
+    font-family:Impact;
+    font-size: 18pt;
+    color: #2597a0;
+}
+
+.matchTeamSelect {
+    height: 20pt;
+    font-size:15pt;
+}
+.matchSelectPoints {
+    height: 50px;
+    width: 50px;
+    color: darkgreen;
+    background: #67f3ff;
+    border:none;
+    font-size: 22pt;
+}
+.matchSelectPoints:active {
+    background: #ffdcad;
+}
+
+.matchSelectSet {
+    height: 20pt;
+    width:50pt;
+    font-size: 14pt;
+    color: #e3ffbd;
+    background: #51a140;
+    border:0;
+}
+.matchSelectSet:active {
+    background: #75e157;
+}
+
+.matchSelectTeamPoints {
+    font-size: 25pt;
+    color: #9400ff;
+    font-family: Comic Sans MS;
+}
+.matchSelectMatchPoints {
+    font-size: 20pt;
+    color: #9400ff;
+    font-family: Comic Sans MS;
+}
+
+.matchSelectFinish {
+    height: 20pt;
+    width:100pt;
+    font-size: 15pt;
+    color: #fff4ed;
+    background: #ff423c;
+    border:0;
+}
+.matchSelectFinish:active {
+    background: #ffa8a5;
+}
+
+.svg {
+    height:100%;
+}
